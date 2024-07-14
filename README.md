@@ -11,7 +11,7 @@ I'm currently pursuing a Master's Degree in Human-Computer Interaction at the Sc
 - **Research:** I'm conducting research on games and AR/VR ᯅ
 - **Projects:** I'm also an avid game developer 🎮
 ### Work in Progress
-  - **Timber**: A Web-First Accessible Game Engine
+  - **Timber**: A Web-First Game Engine
     - [github repo](https://github.com/ayarger/timber)
 ### Past Projects
   - **Soul of the Forest**: A fantasy RPG game inspired by classic titles like Pokemon, Undertale, and Franken
