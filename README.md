@@ -14,9 +14,9 @@ I'm currently pursuing a Master's Degree in Human-Computer Interaction at the Sc
   - **Timber**: A Web-First Accessible Game Engine
     - [github repo](https://github.com/ayarger/timber)
 ### Past Projects
-  - **Soul of the Forest**: A fantasy RPG game inspired by classic titles like Pokemon, Undertale, and Franken.
+  - **Soul of the Forest**: A fantasy RPG game inspired by classic titles like Pokemon, Undertale, and Franken
     - [steam page](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/)
-  - **Cellosuem**: A roguelike bullet heaven game.
+  - **Cellosuem**: A roguelike bullet heaven game
     - [steam page](https://store.steampowered.com/app/2557580/Cellosseum/?curator_clanid=1114354)  
   - **RoBoo**: A pixel-art styled 2D platform puzzler
     - [github repo](https://github.com/AnhuaW/RoBoo)
