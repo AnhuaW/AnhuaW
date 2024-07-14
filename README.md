@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself and my wor
 
 ## About Me
 
-I'm currently pursuing a Master's Degree in Human-Computer Interaction at the School of Information, University of Michigan. My interests lie in the intersection of design 🎨 and development 💻 , and I'm particularly passionate about creating interactive systems and immersive experiences.
+I'm currently pursuing a Master's Degree in Human-Computer Interaction at the School of Information, University of Michigan. My interests lie in the intersection of design 🎨 and development 💻 , and I'm particularly passionate about building interactive systems and creating immersive experiences.
 
 ## What I Do
 
