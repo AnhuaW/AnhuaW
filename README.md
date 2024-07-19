@@ -20,9 +20,9 @@ I'm also an avid game developer 🎮
     - [Timber repo](https://github.com/ayarger/timber)
 #### Past Projects
   - **Soul of the Forest**: A fantasy RPG game inspired by classic titles like Pokemon, Undertale, and Franken
-    - [steam page](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/)
+    - [Soul of the Forest steam page](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/)
   - **Cellosuem**: A roguelike bullet heaven game
-    - [steam page](https://store.steampowered.com/app/2557580/Cellosseum/?curator_clanid=1114354)  
+    - [Cellosuem steam page](https://store.steampowered.com/app/2557580/Cellosseum/?curator_clanid=1114354)  
   - **RoBoo**: A pixel-art styled 2D platform puzzler
     - [RoBoo repo](https://github.com/AnhuaW/RoBoo)
     - [itch.io page](https://dame-dane.itch.io/roboo)
