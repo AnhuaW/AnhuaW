@@ -8,18 +8,23 @@ I'm currently pursuing a Master's Degree in Human-Computer Interaction at the Sc
 
 ## What I Do
 
-- **Research:** I'm conducting research on games and AR/VR ᯅ
-- **Projects:** I'm also an avid game developer 🎮
-### Work in Progress
+### Research
+I'm conducting research on games and AR/VR ᯅ
+- **VR Sandplay**: A VR Sandplay Expereince
+  - [VR Sandplay repo](https://github.com/AnhuaW/VR-Sandplay/tree/main) 
+
+### Projects
+I'm also an avid game developer 🎮
+#### Work in Progress
   - **Timber**: A Web-First Game Engine
-    - [github repo](https://github.com/ayarger/timber)
-### Past Projects
+    - [Timber repo](https://github.com/ayarger/timber)
+#### Past Projects
   - **Soul of the Forest**: A fantasy RPG game inspired by classic titles like Pokemon, Undertale, and Franken
     - [steam page](https://store.steampowered.com/app/2880650/Soul_of_the_Forest/)
   - **Cellosuem**: A roguelike bullet heaven game
     - [steam page](https://store.steampowered.com/app/2557580/Cellosseum/?curator_clanid=1114354)  
   - **RoBoo**: A pixel-art styled 2D platform puzzler
-    - [github repo](https://github.com/AnhuaW/RoBoo)
+    - [RoBoo repo](https://github.com/AnhuaW/RoBoo)
     - [itch.io page](https://dame-dane.itch.io/roboo)
 
 ## Skills
