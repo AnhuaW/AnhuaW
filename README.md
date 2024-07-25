@@ -32,7 +32,7 @@ I'm also an avid game developer 🎮
 Here are some of the skills I've acquired:
 
 - **Programming Languages:** C#, C++, C, Python, Java, HTML and CSS, JavaScript, R
-- **Tools and Technologies:** Unity, FMOD, WWise, Vuforia, Oculus Integration SDK, Git, VSCode, Visual Studio, Django, Flask
+- **Tools and Technologies:** Unity, FMOD, WWise, Vuforia, Oculus Interaction SDK, Git, VSCode, Visual Studio, Django, Flask
 
 ## Contact Me
 
