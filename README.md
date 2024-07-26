@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm excited to share a bit about myself and my work with you.
 
+![](https://komarev.com/ghpvc/?username=AnhuaW&color=ea9a97)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnhuaW&theme=rose-pine&background=FAF4ED&ring=EBBCBA&currStreakNum=D7827E&currStreakLabel=D7827E&excludeDaysLabel=575279&dates=56949F&sideNums=797593&sideLabels=797593&fire=EA9D34)](https://git.io/streak-stats)
+
+
+
 ## About Me
 
 I'm currently pursuing a Master's Degree in Human-Computer Interaction at the School of Information, University of Michigan. My interests lie in the intersection of design 🎨 and development 💻 , and I'm particularly passionate about building interactive systems and creating immersive experiences.
@@ -44,6 +50,3 @@ Feel free to reach out to me via:
 Thank you for visiting my profile! I look forward to connecting with you.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnhuaW&theme=rose-pine&background=FAF4ED&ring=EBBCBA&currStreakNum=D7827E&currStreakLabel=D7827E&excludeDaysLabel=575279&dates=907AA9&sideNums=797593&sideLabels=797593&fire=EA9D34)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=AnhuaW&color=ea9a97)
